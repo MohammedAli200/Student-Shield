@@ -1,6 +1,6 @@
-# Campus Guardian AI
+# Student-Shield 
 
-Campus Guardian AI is a Smart Student Well-being & Campus Intelligence Platform using the MERN Stack.
+Student-Shield is a Smart Student Well-being & Campus Intelligence Platform using the MERN Stack.
 
 ## Features
 - Role-based Dashboards (Student, Counselor, Admin)
